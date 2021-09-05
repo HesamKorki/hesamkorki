@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+I'm a Machine Learning Engineer interested in distributed computation :bowtie:
 
+<a href="https://www.linkedin.com/in/hesamkorki/">
+  <img align="left" alt="Hesam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
+<br />
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <!--
 **HesamKorki/hesamkorki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
