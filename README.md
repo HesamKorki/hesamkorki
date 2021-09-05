@@ -1,12 +1,13 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div>
 <a href="https://www.linkedin.com/in/hesamkorki/">
   <img align="left" alt="Hesam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.kaggle.com/hesamkorki/">
   <img align="left" alt="Hesam's Kaggle" width="22px" src="https://github.com/HesamKorki/hesamkorki/blob/main/kaggle_icon.svg" />
 </a>
-
-
+</div>
+<br />
 <br />
 
 I'm a Machine Learning Engineer interested in distributed computation 
