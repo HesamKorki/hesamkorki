@@ -10,7 +10,7 @@
 <br />
 <br />
 
-I'm a Machine Learning Engineer interested in distributed computation 
+I'm a Software/Data Engineer interested in distributed computation and Data platforms 
 
 <br />
 
