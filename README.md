@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <div>
-<a href="https://www.linkedin.com/in/hesamkorki/" class="social-icon si-rounded si-small si-linkedin">
-  <i class="icon-linkedin"></i>
+<a href="https://www.linkedin.com/in/hesamkorki/">
+  <img src="https://www.iconfinder.com/icons/5296501/download/png/48"/>
 </a>
 <a href="https://www.kaggle.com/hesamkorki/">
   <img align="left" alt="Hesam's Kaggle" width="22px" src="https://github.com/HesamKorki/hesamkorki/blob/main/kaggle_icon.svg" />
