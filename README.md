@@ -1,6 +1,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - ♟️ I enjoy playing chess
+- ⏱️ Mechanical watches amaze me
 - ⚙️ I worked as a Data Engineer and I loved it
 - ⚡ I'm doing Software Engineering for the time being to consolidate my foundation
 - 📚 I live to learn and learn to live
